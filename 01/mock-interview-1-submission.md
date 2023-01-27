@@ -10,12 +10,12 @@
 * points: 1
 ##### !question
 
-Please enter a link to the Replit you used to complete your interview.
+Please enter a link to the Replit you used to complete your interview. This mock interview problem must be from the list of Ada approved questions.
 
 ##### !end-question
 ##### !answer
 
-/.*/
+/\w*replit\.com\w*/
 
 ##### !end-answer
 ### !end-challenge
@@ -28,7 +28,9 @@ Please enter a link to the Replit you used to complete your interview.
 * topics: interview
 ##### !question
 
-What is the first and last name of the person you partnered with for your mock interview? If the individual was not another Adie intern and not part of the instructional staff, please list their association to you (e.g. partner, friend, mentor, intern manager).
+What is the first and last name of the Adie you partnered with for your mock interview? 
+
+Please note that interviewing with someone outside of Ada must be approved by a CS Fun instructor.
 
 ##### !end-question
 
