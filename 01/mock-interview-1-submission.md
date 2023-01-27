@@ -28,7 +28,7 @@ Please enter a link to the Replit you used to complete your interview.
 * topics: interview
 ##### !question
 
-What is the first and last name of the person you partnered with for your mock interview?
+What is the first and last name of the person you partnered with for your mock interview? If the individual was not another Adie intern and not part of the instructional staff, please list their association to you (e.g. partner, friend, mentor, intern manager).
 
 ##### !end-question
 
