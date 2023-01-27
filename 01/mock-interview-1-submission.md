@@ -28,7 +28,7 @@ Please enter a link to the Replit you used to complete your interview.
 * topics: interview
 ##### !question
 
-Who did you partner with for your mock interview?
+What is the first and last name of the person you partnered with for your mock interview?
 
 ##### !end-question
 
