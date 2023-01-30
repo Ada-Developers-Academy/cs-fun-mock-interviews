@@ -1,0 +1,12 @@
+Standards:
+  -
+    Title: Mock Interview 1
+    Description: Mock interview details submission
+    UID: 906e06dc-2032-4f1e-82b7-90aa10667f23
+    SuccessCriteria:
+      - success criteria
+    ContentFiles:
+      -
+        Type: Lesson
+        UID: 37c8e61f-d89f-46d8-91b0-67caac57fff8
+        Path: /01/mock-interview-1-submission.md
