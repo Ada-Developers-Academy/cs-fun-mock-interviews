@@ -10,3 +10,47 @@ Standards:
         Type: Lesson
         UID: 37c8e61f-d89f-46d8-91b0-67caac57fff8
         Path: /01/mock-interview-1-submission.md
+  -
+    Title: Mock Interview 2
+    Description: Mock interview details submission
+    UID: f03aab69-76b4-455c-8e0a-d05de8749634
+    SuccessCriteria:
+      - success criteria
+    ContentFiles:
+      -
+        Type: Lesson
+        UID: 4112bbfb-9523-4c3b-9f0c-8c0fe4899628
+        Path: /02/mock-interview-2-submission.md
+  -
+    Title: Mock Interview 3
+    Description: Mock interview details submission
+    UID: 44ff3b16-2193-4200-8ab9-9bf5f3d53444
+    SuccessCriteria:
+      - success criteria
+    ContentFiles:
+      -
+        Type: Lesson
+        UID: b0789e97-cd35-48cf-8945-808183d1915f
+        Path: /03/mock-interview-3-submission.md
+  -
+    Title: Mock Interview 4
+    Description: Mock interview details submission
+    UID: 7b2daa3e-c7e8-4337-bcee-df640ae7e80e
+    SuccessCriteria:
+      - success criteria
+    ContentFiles:
+      -
+        Type: Lesson
+        UID: 73ce82e4-8c5a-4f42-aef1-5d04449f081e
+        Path: /04/mock-interview-4-submission.md
+  -
+    Title: Mock Interview 5
+    Description: Mock interview details submission
+    UID: 665ca02e-be5a-4408-8f5b-c616c2599014
+    SuccessCriteria:
+      - success criteria
+    ContentFiles:
+      -
+        Type: Lesson
+        UID: 19107ab2-e31c-4fc6-8710-df6c7ade49df
+        Path: /05/mock-interview-5-submission.md
