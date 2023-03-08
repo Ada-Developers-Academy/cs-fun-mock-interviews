@@ -37,8 +37,15 @@ When you enter the mock interview, you may choose one or more topics for your in
 - Graphs - Breadth First & Depth First Search
 - Graphs - Dijkstra's
 
-We encourage partners to select a question from the interviewee's chosen topic(s) at random from the following repository:
 
+## Scheduling Mock Interviews
+Ada provides 90 minute instructor facilitated mock interview sessions every other week for each section. During these sessions, instructors will split you into random pairs based on the topics you would like to interview in that day.
+
+Check your section calendar to view available Ada facilitated mock interview session:
+- [Ligers Calendar](https://calendar.google.com/calendar/u/0?cid=Y18wZmVlNmQxZWFhNzM4YWVlNzM5YTRkZjZmNmRjN2YzNzFmNmExMDkxYWFjMzlkODBhM2YzMjkyNDBlN2I4ZDBlQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
+- [Tigons Calendar](https://calendar.google.com/calendar/u/0?cid=Y19jYmZjN2VkMGRkMjkxY2M3MGNjMGM1NzljYzkxNzY4MzZhMTQ0MWJlYTk1MWRlMTc4ODc3NGE5ZDA0OTI0MTBmQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
+
+If you would like to schedule your own sessions, you are free to coordinate with your fellow Adies and organize alternative sessions.
 
 ## Reminders
 - It's **100% okay** not to finish the problem in the allotted time. 
