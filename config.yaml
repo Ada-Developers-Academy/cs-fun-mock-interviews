@@ -1,5 +1,16 @@
 Standards:
   -
+    Title: About Mock Interviews
+    Description: About Mock Interviews
+    UID: f8aa9882-7aad-452e-86b3-40e3ee928f91
+    SuccessCriteria:
+      - success criteria
+    ContentFiles:
+      -
+        Type: Lesson
+        UID: bacfefa4-12db-4611-9624-57102e70826d
+        Path: /about-mock-interviews/about-mocks.md
+  -
     Title: Mock Interview 1
     Description: Mock interview details submission
     UID: 906e06dc-2032-4f1e-82b7-90aa10667f23
