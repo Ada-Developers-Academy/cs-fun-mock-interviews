@@ -62,7 +62,7 @@ If you would like to schedule your own sessions, you are free to coordinate with
 - It's **100% okay** not to finish the problem in the allotted time. 
 - Your solution does not have to match the sample solution. There are many ways to solve these problems!
   - Because we cannot anticipate every possible solution, the sample solution only provides one possible solution
-  - If you are an interviewer and are unsure how to help your interviewee because they are choosing an approach that does not match the sample solution, that's okay! Industry interviewers are sometimes unable or unwilling to provide assistance to the interviewee in a real mock. You may also consider looking up alternative solutions online.
+  - If you are an interviewer and are unsure how to help your interviewee because they are choosing an approach that does not match the sample solution, that's okay! Industry interviewers are sometimes unable or unwilling to provide assistance to the interviewee in a real technical interview. You may also consider looking up alternative solutions online.
 - It's okay if you struggle to find a starting point and make progress towards a solution. Consider how you can still show your interviewer what you do know and present yourself in a positive light. 
   - Is there a subproblem or similar problem you can make progress towards solving?
   - Can you develop a set of tests (input/output) to demonstrate your understanding of the problem?
