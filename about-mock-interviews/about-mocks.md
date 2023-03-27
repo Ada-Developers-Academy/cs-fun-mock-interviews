@@ -1,5 +1,16 @@
 # About Mock Interviews
 
+<iframe src="https://adaacademy.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=548cfc0e-cc71-4262-aeb3-afc70150e63c&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
+
+<!-- available callout types: info, success, warning, danger, secondary, star  -->
+### !callout-success
+
+## Please Watch Before Your First Mock Interview
+
+Please watch the above video before your first mock interview so that you know what to expect going in. If you have any questions about the format, reach out in the `#taa-general` channel with your question.
+
+### !end-callout
+
 As part of Thursdays at Ada, you are required to complete five peer-to-peer mock interviews on topics covered in both the Classroom and Thursdays at Ada phases of CS Fundamentals. 
 
 Mock interviews should be conducted in 90 minute sessions. Pairs should take approximately 10 minutes to choose questions for each other and read over the provided solutions for their partner's problem. Then each participant should take turns posing as interviewer and interviewee. Each person should have about 40 minutes to attempt their question.
