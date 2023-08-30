@@ -44,7 +44,7 @@ During these sessions, please make an effort to treat it as if it were a real in
 
 Feel free to optionally add a behavioral question at the top of the interview. If a partner finishes early, consider discussing time and space complexity and/or completing one of the challenges offered at the bottom of the solution guide. You may also choose to leave the session early if you both finish before the 90 minute time mark. 
 
-We encourage you not to extend past 90 minutes as real technical interviews will be time boxed. If you do not complete your question, that's 100% okay and very common for a technical interview! Feel free to finish the problem on your own time if interested. 
+We encourage you not to extend past 45 minutes for each interview as real technical interviews will be time boxed. If you do not complete your question, that's 100% okay and very common for a technical interview! Feel free to finish the problem on your own time if interested. 
 
 ### Example Mock Interview Flow
 
