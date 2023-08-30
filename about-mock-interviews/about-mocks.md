@@ -19,7 +19,8 @@ As part of Unit 4, you are required to complete five peer-to-peer mock interview
 
 For your five required mock interviews, we ask that you use Ada provided questions accessible via the link above. This is to ensure questions are of an appropriate scope and topic. We encourage you to explore non-Ada interview questions in your own time!
 
-**DO NOT VIEW THE PROBLEMS BEFOREHAND** In order to simulate a real interview experience, please do not preview the questions beforehand. 
+**DO NOT VIEW THE PROBLEMS BEFOREHAND**
+In order to simulate a real interview experience, please do not preview the questions beforehand. 
 
 When you enter the mock interview, you may choose one or more topics for your interviewer to select your question from. The topics are:
 - Classroom Phase (Variables & Memory, Big O, Lists, Hash Tables, Recursion)
