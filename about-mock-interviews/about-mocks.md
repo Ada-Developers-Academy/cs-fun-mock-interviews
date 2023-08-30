@@ -55,7 +55,7 @@ Monica might choose to have Teneika attempt the *Balanced* problem listed under 
 ![Screenshot of the interview questions in the Classroom Phase, Dynamic Programming, and Linked Lists Topics in the Mock Interview Question Repository](../assets/mock-interview-questions.png)
 
 
-Teneika might choose to have Monica attempt the *Switcheroo* problem listed under the Linked List topic in the Mock Interview Question Repository. Perhaps Monica has already seen a previous mock interview partner implement *Switcheroo* problem, in which case he can ask Teneika to select a different problem. Teneika might then choose to have Monica attempt the *Drome* problem instead. 
+Teneika might choose to have Monica attempt the *Switcheroo* problem listed under the Linked List topic in the Mock Interview Question Repository. Perhaps Monica has already seen a previous mock interview partner implement the *Switcheroo* problem, in which case he can ask Teneika to select a different problem. Teneika might then choose to have Monica attempt the *Drome* problem instead. 
 
 Next, Monica will take about ten minutes to read over the *Balanced Solution* and Teneika will read over the *Drome Solution*. 
 
