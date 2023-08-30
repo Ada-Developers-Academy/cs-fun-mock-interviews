@@ -28,7 +28,7 @@ When you enter the mock interview, you may choose one or more topics for your in
 - Linked Lists
 - Binary Search Trees
 - Graphs - Breadth First & Depth First Search
-- Graphs - Hidden Graphs & Dijkstra's
+- Graphs - Hidden Graphs & Dijkstra's Algorithm
 
 
 ## Mock Interview Structure
