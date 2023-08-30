@@ -67,7 +67,7 @@ After Monica's interview is complete, Teneika will become the interviewee and at
 
 Monica and Teneika should document their session by filling out a [Mock Interview Retrospective in Learn](../01/mock-interview-1-submission.md).
 
-## Graduation Requirements
+## Graduation Prerequisite Guidelines
 
 To graduate, you must complete 5 mock interviews. Over the span of the five interviews you must
 - Have at least three different interview partners
