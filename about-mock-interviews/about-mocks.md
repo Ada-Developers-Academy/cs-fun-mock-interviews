@@ -76,7 +76,7 @@ Before graduation, we recommend for you to complete 5 mock interviews. Over the 
 
 After each mock interview, please submit a mock interview retrospective via the Learn checkpoints we have provided you. 
 
-The variety of partners requirement is to encourage you to experience different styles of interviewers and observe different folks' problem solving strategies. The variety of topics requirement is to encourage you to practice multiple topics that may arise when you begin your job search. 
+The variety of partners recommendation is to encourage you to experience different styles of interviewers and observe different folks' problem solving strategies. The variety of topics recommendation is to encourage you to practice multiple topics that may arise when you begin your job search. 
 
 ## Scheduling Mock Interviews
 Ada provides 100 minute instructor facilitated mock interview sessions every other week. During the first ten minutes, instructors will split you into random pairs based on the topics you would like to interview in that day.  **You must arrive within the first five minutes** of the scheduled session in order to be guaranteed a partner. 
