@@ -27,7 +27,7 @@ When you enter the mock interview, you may choose one or more topics for your in
 - Dynamic Programming
 - Linked Lists
 - Binary Search Trees
-- Graphs - Breadth First & Depth First Search
+- Graphs - Breadth First Search & Depth First Search
 - Graphs - Hidden Graphs & Dijkstra's Algorithm
 
 
@@ -67,7 +67,7 @@ After Monica's interview is complete, Teneika will become the interviewee and at
 
 Monica and Teneika should document their session by filling out a [Mock Interview Retrospective in Learn](../01/mock-interview-1-submission.md).
 
-## Graduation Prerequisite Guidelines
+## Graduation Goals
 
 Before graduation, we recommend for you to complete 5 mock interviews. Over the span of the five interviews we strongly recommend for you to
 - Have at least three different interview partners
@@ -81,9 +81,9 @@ The variety of partners recommendation is to encourage you to experience differe
 ## Scheduling Mock Interviews
 Ada provides 100 minute instructor facilitated mock interview sessions every other week. During the first ten minutes, instructors will split you into random pairs based on the topics you would like to interview in that day.  **You must arrive within the first five minutes** of the scheduled session in order to be guaranteed a partner. 
 
-Check the [Unit 4 Calendar](https://calendar.google.com/calendar/embed?src=c_d44b988d1234b8420687c70615bd50ffa62ce2e2baa05abafa03c0998d2ebd64%40group.calendar.google.com&ctz=America%2FLos_Angeles) to view available Ada facilitated mock interview session.
+Check the [Unit 4 Calendar](https://calendar.google.com/calendar/embed?src=c_d44b988d1234b8420687c70615bd50ffa62ce2e2baa05abafa03c0998d2ebd64%40group.calendar.google.com&ctz=America%2FLos_Angeles) to view available Ada facilitated mock interview session. Mock interview pairing will take place at the end of Review Sessions for all 5 topics.
 
-If you would like to schedule your own sessions, you are free to coordinate with your fellow Adies and organize alternative sessions. Consider finding partners by posting a request in the `#cs-fun-study-hall` channel on Slack.
+If you would like to schedule your own sessions, you are free to coordinate with your fellow Adies and organize alternative sessions. Consider finding partners by posting a request in the `#find-interview-partners` channel on Slack.
 
 ## Reminders
 - It's **100% okay** not to finish the problem in the allotted time. 
