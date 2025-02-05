@@ -59,7 +59,7 @@ Teneika might choose to have Monica attempt the *Switcheroo* problem listed unde
 
 Next, Monica will take about ten minutes to read over the *Balanced Solution* and Teneika will read over the *Drome Solution*. 
 
-After both Monica and Teneika have read over the sample solution to their partner's problem, they can begin the actual interview portion. Monica might pose as interviewee first and Teneika will pose as Monica's interviewer. Monica will create a fork of the original *Drome* Replit and share his screen with Teneika. 
+After both Monica and Teneika have read over the sample solution to their partner's problem, they can begin the actual interview portion. Monica might pose as interviewee first and Teneika will pose as Monica's interviewer. Monica will create a fork of the original *Drome* repository and share his screen with Teneika. 
 
 Monica will read over the *Drome* problem statement and ask any clarifying questions he has to Teneika. Then Monica will start pseudocoding and implementing his solution to *Drome*. After 40 minutes, Monica and Teneika should wrap up Monica's interview, *even if Monica has not reached a full solution*. If Monica successfully implements his solution before the 40 minute mark, Teneika can ask Monica to evaluate the time and space complexity of his solution, refactor his solution, and/or complete the challenge questions at the bottom of the *Drome Solution*. 
 
@@ -104,6 +104,6 @@ If you would like to schedule your own sessions, you are free to coordinate with
     - Does your partner demonstrate good code style?
     - Does your partner demonstrate strong debugging skills?
 - Be kind to each other! Wherever possible, help your partner with hints as needed.
-- **Remember**: At the bottom of the solution repls there is extra information for the interviewer. It contains:
+- **Remember**: On the solution branch in each interview question repository, there is extra information for the interviewer at the bottom of the README file. It contains:
   - Answers to clarifying questions your partner might ask
   - Suggestions on hints you can give if needed
