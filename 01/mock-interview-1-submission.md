@@ -5,17 +5,17 @@
 ### !challenge
 * type: short-answer
 * id: 1f5bb96e-faa3-428f-b4fe-e1c374d8c960
-* title: Replit Link
+* title: Interview Question Link
 * topics: interview
 * points: 1
 ##### !question
 
-Please enter a link to the Replit you used to complete your interview. This mock interview problem must be from the list of Ada approved questions.
+Please enter a link to the repository you used to complete your interview. This mock interview problem must be from the list of Ada approved questions.
 
 ##### !end-question
 ##### !answer
 
-/\w*replit\.com\w*/
+/\w*github\.com\w*/
 
 ##### !end-answer
 ### !end-challenge
