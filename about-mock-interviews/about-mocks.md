@@ -104,6 +104,6 @@ If you would like to schedule your own sessions, you are free to coordinate with
     - Does your partner demonstrate good code style?
     - Does your partner demonstrate strong debugging skills?
 - Be kind to each other! Wherever possible, help your partner with hints as needed.
-- **Remember**: On the solution branch in each interview question repository, there is extra information for the interviewer at the bottome of the README file. It contains:
+- **Remember**: On the solution branch in each interview question repository, there is extra information for the interviewer at the bottom of the README file. It contains:
   - Answers to clarifying questions your partner might ask
   - Suggestions on hints you can give if needed
