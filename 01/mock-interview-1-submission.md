@@ -22,27 +22,6 @@ Please enter a link to the repository you used to complete your interview. This 
 
 <!-- Question 2 -->
 ### !challenge
-* type: short-answer
-* id: 2ed2b435-15b6-46cf-b3c2-e9762eea53b9
-* title: Mock Interview Partner
-* topics: interview
-##### !question
-
-What is the first and last name of the Adie you partnered with for your mock interview? 
-
-Please note that interviewing with someone outside of Ada must be approved by a CS Fun instructor.
-
-##### !end-question
-
-##### !answer
-
-/.*/
-
-##### !end-answer
-### !end-challenge
-
-<!-- Question 3 -->
-### !challenge
 * type: paragraph
 * id: aa4f1f31-26f4-42cb-8200-23f29e5bfc74
 * title: Learnings from your Partner
@@ -54,7 +33,7 @@ What is one thing you learned from watching your partner interview?
 ##### !end-question
 ### !end-challenge
 
-<!-- Question 4 -->
+<!-- Question 3 -->
 ### !challenge
 * type: paragraph
 * id: 6c6f5805-8d92-4af5-b4af-938be00c30a0
@@ -69,7 +48,7 @@ What is one area of strength your partner demonstrated during their interview? I
 ##### !end-question
 ### !end-challenge
 
-<!-- Question 5 -->
+<!-- Question 4 -->
 ### !challenge
 * type: paragraph
 * id: e9547d67-ad73-4f4d-b519-86df1b7f6f1b
