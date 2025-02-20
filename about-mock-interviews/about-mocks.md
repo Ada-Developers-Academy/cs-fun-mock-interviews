@@ -11,18 +11,19 @@ Please watch the above video before your first mock interview so that you know w
 
 ### !end-callout
 
-As part of Unit 4, you are required to complete five peer-to-peer mock interviews on topics covered in both the Classroom CS Fundamentals and Unit 4. Mock interviews should be conducted in 90 minute sessions with a partner.
+As part of Unit 4, you are required to complete five peer-to-peer mock interviews, two of which must include behavioral interview questions. The technical material will be on topics covered in both the Classroom CS Fundamentals and Unit 4. Mock interviews should be conducted in 90 minute sessions with a partner.
 
 ## Mock Interview Questions
 
-[**Mock Interview Question Repository**](https://docs.google.com/document/d/1SmKIpGL_z_IXhgLiaGAf3kPc_bApgH1LtIGcXVoKUHE/edit?usp=sharing)
+- [**Mock Interview Technical Question Repository**](https://docs.google.com/document/d/1SmKIpGL_z_IXhgLiaGAf3kPc_bApgH1LtIGcXVoKUHE/edit?usp=sharing)
+- [**Mock Interview Behavioral Question Repository**](https://docs.google.com/document/d/1XhTN21xAsAv0bUFQFB_EFWB9qPkqZ93iaUl8hIyv6Co/edit?usp=sharing)
 
-For your five required mock interviews, we ask that you use Ada provided questions accessible via the link above. This is to ensure questions are of an appropriate scope and topic. We encourage you to explore non-Ada interview questions in your own time!
+For your five required mock interviews, we ask that you use Ada provided questions accessible via the links above. This is to ensure questions are of an appropriate scope and topic. We encourage you to explore non-Ada interview questions in your own time!
 
 **DO NOT VIEW THE PROBLEMS BEFOREHAND**
 In order to simulate a real interview experience, please do not preview the questions beforehand. 
 
-When you enter the mock interview, you may choose one or more topics for your interviewer to select your question from. The topics are:
+When you enter the mock interview, you may choose one or more technical topics for your interviewer to select your question from. The topics are:
 - Classroom Phase (Variables & Memory, Big O, Lists, Hash Tables, Recursion)
 - Dynamic Programming
 - Linked Lists
@@ -33,6 +34,8 @@ When you enter the mock interview, you may choose one or more topics for your in
 
 ## Mock Interview Structure
 At the start of a mock interview, each participant should communicate which of the topics they are comfortable interviewing in to their partner. 
+
+If this is an interview with behavioral questions, each person should start by selecting 2-3 interview question for their partner from the [Mock Interview Behavioral Question Repository](https://docs.google.com/document/d/1XhTN21xAsAv0bUFQFB_EFWB9qPkqZ93iaUl8hIyv6Co/edit?usp=sharing).
 
 Each person should then choose an interview question for their partner by selecting a question from the [Mock Interview Question Repository](https://docs.google.com/document/d/1SmKIpGL_z_IXhgLiaGAf3kPc_bApgH1LtIGcXVoKUHE/edit?usp=sharing) that is listed under their partner's chosen category(s). If someone receives a question that they have already observed or interviewed with, they should ask their partner to select a different question from their chosen categories. 
 
@@ -81,9 +84,9 @@ The variety of partners recommendation is to encourage you to experience differe
 ## Scheduling Mock Interviews
 Ada provides 100 minute instructor facilitated mock interview sessions every other week. During the first ten minutes, instructors will split you into random pairs based on the topics you would like to interview in that day.  **You must arrive within the first five minutes** of the scheduled session in order to be guaranteed a partner. 
 
-Check the [Unit 4 Calendar](https://calendar.google.com/calendar/embed?src=c_d44b988d1234b8420687c70615bd50ffa62ce2e2baa05abafa03c0998d2ebd64%40group.calendar.google.com&ctz=America%2FLos_Angeles) to view available Ada facilitated mock interview session. Mock interview pairing will take place at the end of Review Sessions for all 5 topics.
+To view available Ada facilitated mock interview sessions, check the calendar for your cohort by clicking your cohort's link on the [Ada Core Hub site](https://sites.google.com/adadevelopersacademy.org/adacorehub/home). Mock interview pairing will take place at the end of Review Sessions for all 5 topics.
 
-If you would like to schedule your own sessions, you are free to coordinate with your fellow Adies and organize alternative sessions. Consider finding partners by posting a request in the `#find-interview-partners` channel on Slack.
+If you would like to schedule your own mock interview sessions, you are free to coordinate with your fellow Adies or other folks you trust to organize alternative sessions. Consider finding partners by posting a request in the `#find-interview-partners` channel on Slack.
 
 ## Reminders
 - It's **100% okay** not to finish the problem in the allotted time. 
