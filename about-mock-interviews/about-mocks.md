@@ -16,7 +16,7 @@ As part of Unit 4, you are required to complete five peer-to-peer mock interview
 ## Mock Interview Questions
 
 - [**Mock Interview Technical Question Repository**](https://docs.google.com/document/d/1SmKIpGL_z_IXhgLiaGAf3kPc_bApgH1LtIGcXVoKUHE/edit?usp=sharing)
-- [**Mock Interview Behavioral Question Repository**](BLOCKED - RESOURCE REQUIRED)
+- [**Mock Interview Behavioral Question Repository**](https://docs.google.com/document/d/1XhTN21xAsAv0bUFQFB_EFWB9qPkqZ93iaUl8hIyv6Co/edit?usp=sharing)
 
 For your five required mock interviews, we ask that you use Ada provided questions accessible via the links above. This is to ensure questions are of an appropriate scope and topic. We encourage you to explore non-Ada interview questions in your own time!
 
@@ -35,7 +35,7 @@ When you enter the mock interview, you may choose one or more technical topics f
 ## Mock Interview Structure
 At the start of a mock interview, each participant should communicate which of the topics they are comfortable interviewing in to their partner. 
 
-If this is an interview with behavioral questions, each person should start by selecting 2-3 interview question for their partner from the [Mock Interview Behavioral Question Repository](BLOCKED - RESOURCE REQUIRED).
+If this is an interview with behavioral questions, each person should start by selecting 2-3 interview question for their partner from the [Mock Interview Behavioral Question Repository](https://docs.google.com/document/d/1XhTN21xAsAv0bUFQFB_EFWB9qPkqZ93iaUl8hIyv6Co/edit?usp=sharing).
 
 Each person should then choose an interview question for their partner by selecting a question from the [Mock Interview Question Repository](https://docs.google.com/document/d/1SmKIpGL_z_IXhgLiaGAf3kPc_bApgH1LtIGcXVoKUHE/edit?usp=sharing) that is listed under their partner's chosen category(s). If someone receives a question that they have already observed or interviewed with, they should ask their partner to select a different question from their chosen categories. 
 
