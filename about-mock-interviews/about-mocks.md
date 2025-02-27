@@ -76,7 +76,7 @@ Monica and Teneika should document their session by filling out a [Mock Intervie
 
 ## Graduation Goals
 
-Before graduation, we recommend for you to complete 5 technical mock interviews and 2 behavioral mock interviews. Over the span of the five technical interviews we strongly recommend for you to
+Before graduation, you are required to complete 5 technical mock interviews and 2 behavioral mock interviews. Over the span of the five technical interviews we strongly recommend for you to
 - Have at least three different interview partners
 - Complete interviews in at least three different topics
 - Use Ada provided questions
