@@ -11,14 +11,20 @@ Please watch the above video before your first mock interview so that you know w
 
 ### !end-callout
 
-As part of Unit 4, you are required to complete five peer-to-peer mock interviews, two of which must include behavioral interview questions. The technical material will be on topics covered in both the Classroom CS Fundamentals and Unit 4. Mock interviews should be conducted in 90 minute sessions with a partner.
+As part of Unit 4, you are required to complete 7 mock interviews total: 
+- five peer-to-peer technical mock interviews
+- two behavioral mock interviews 
+
+The technical material will be on topics covered in both the Classroom CS Fundamentals and Unit 4. Technical mock interviews should be conducted in 90 minute sessions with a partner. 
+
+The required behavioral mock interviews will be scheduled with Career Services. Check out the [Career Development page on the Core Hub Site](https://sites.google.com/adadevelopersacademy.org/adacorehub/home/cohort-22/unit-4/career-development) for more information on behaviroal mock interviews. Information on how to schedule the behavioral interviews will be shared in Slack, so keep an eye out on #announcements and reach out if you have questions! 
 
 ## Mock Interview Questions
 
 - [**Mock Interview Technical Question Repository**](https://docs.google.com/document/d/1SmKIpGL_z_IXhgLiaGAf3kPc_bApgH1LtIGcXVoKUHE/edit?usp=sharing)
 - [**Mock Interview Behavioral Question Repository**](https://docs.google.com/document/d/1XhTN21xAsAv0bUFQFB_EFWB9qPkqZ93iaUl8hIyv6Co/edit?usp=sharing)
 
-For your five required mock interviews, we ask that you use Ada provided questions accessible via the links above. This is to ensure questions are of an appropriate scope and topic. We encourage you to explore non-Ada interview questions in your own time!
+For your five required technical mock interviews, we ask that you use Ada provided questions accessible via the links above. This is to ensure questions are of an appropriate scope and topic. We encourage you to explore non-Ada interview questions in your own time!
 
 **DO NOT VIEW THE PROBLEMS BEFOREHAND**
 In order to simulate a real interview experience, please do not preview the questions beforehand. 
@@ -32,10 +38,8 @@ When you enter the mock interview, you may choose one or more technical topics f
 - Graphs - Hidden Graphs & Dijkstra's Algorithm
 
 
-## Mock Interview Structure
+## Technical Mock Interview Structure
 At the start of a mock interview, each participant should communicate which of the topics they are comfortable interviewing in to their partner. 
-
-If this is an interview with behavioral questions, each person should start by selecting 2-3 interview question for their partner from the [Mock Interview Behavioral Question Repository](https://docs.google.com/document/d/1XhTN21xAsAv0bUFQFB_EFWB9qPkqZ93iaUl8hIyv6Co/edit?usp=sharing).
 
 Each person should then choose an interview question for their partner by selecting a question from the [Mock Interview Question Repository](https://docs.google.com/document/d/1SmKIpGL_z_IXhgLiaGAf3kPc_bApgH1LtIGcXVoKUHE/edit?usp=sharing) that is listed under their partner's chosen category(s). If someone receives a question that they have already observed or interviewed with, they should ask their partner to select a different question from their chosen categories. 
 
@@ -72,16 +76,16 @@ Monica and Teneika should document their session by filling out a [Mock Intervie
 
 ## Graduation Goals
 
-Before graduation, we recommend for you to complete 5 mock interviews. Over the span of the five interviews we strongly recommend for you to
+Before graduation, you are required to complete 5 technical mock interviews and 2 behavioral mock interviews. Over the span of the five technical interviews we strongly recommend for you to
 - Have at least three different interview partners
 - Complete interviews in at least three different topics
 - Use Ada provided questions
 
-After each mock interview, please submit a mock interview retrospective via the Learn checkpoints we have provided you. 
+After each technical mock interview, please submit a mock interview retrospective via the Learn checkpoints we have provided. 
 
 The variety of partners recommendation is to encourage you to experience different styles of interviewers and observe different folks' problem solving strategies. The variety of topics recommendation is to encourage you to practice multiple topics that may arise when you begin your job search. 
 
-## Scheduling Mock Interviews
+## Scheduling Technical Mock Interviews
 Ada provides 100 minute instructor facilitated mock interview sessions every other week. During the first ten minutes, instructors will split you into random pairs based on the topics you would like to interview in that day.  **You must arrive within the first five minutes** of the scheduled session in order to be guaranteed a partner. 
 
 To view available Ada facilitated mock interview sessions, check the calendar for your cohort by clicking your cohort's link on the [Ada Core Hub site](https://sites.google.com/adadevelopersacademy.org/adacorehub/home). Mock interview pairing will take place at the end of Review Sessions for all 5 topics.
