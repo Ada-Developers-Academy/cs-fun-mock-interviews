@@ -11,7 +11,7 @@ Please watch the above video before your first mock interview so that you know w
 
 ### !end-callout
 
-As part of Unit 4, you are required to complete 7 mock interviews total: 
+To receive the “Certificate in Full Stack Web Development with CS/DSA Foundations”, as part of Unit 4, you are required to complete 7 mock interviews total: 
 - five peer-to-peer technical mock interviews
 - two behavioral mock interviews 
 
@@ -76,7 +76,7 @@ Monica and Teneika should document their session by filling out a [Mock Intervie
 
 ## Graduation Goals
 
-Before graduation, you are required to complete 5 technical mock interviews and 2 behavioral mock interviews. Over the span of the five technical interviews we strongly recommend for you to
+Before graduation, we highly suggest you complete 5 technical mock interviews and 2 behavioral mock interviews. Over the span of the five technical interviews we strongly recommend for you to
 - Have at least three different interview partners
 - Complete interviews in at least three different topics
 - Use Ada provided questions
@@ -87,7 +87,7 @@ The variety of partners recommendation is to encourage you to experience differe
 
 ## Scheduling Technical Mock Interviews
 
-To meet the 5 technical interview requirement for Unit 4, you will need to coordinate with your fellow Adies or other folks you trust to organize alternative sessions. Consider finding partners by posting a request in the `#find-interview-partners` channel on Slack.
+To meet the 5 technical interview requirement for Unit 4, you will need to coordinate with your fellow Adies or other folks you trust to organize sessions that meet your scheduling needs. Consider finding partners by posting a request in the `#find-interview-partners` channel on Slack, or adding an event to the student calendar to facilitate your own technical mock interview sessions as a cohort.
 
 ## Reminders
 - It's **100% okay** not to finish the problem in the allotted time. 
