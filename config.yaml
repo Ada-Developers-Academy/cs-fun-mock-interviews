@@ -9,7 +9,11 @@ Standards:
       -
         Type: Lesson
         UID: bacfefa4-12db-4611-9624-57102e70826d
-        Path: /about-mock-interviews/about-mocks.md
+        Path: /about-mock-interviews/about-mocks-live.md
+      -
+        Type: Lesson
+        UID: 548adef8-19a2-4720-937c-357bf2a607eb
+        Path: /about-mock-interviews/about-mocks-async.md
   -
     Title: Mock Interview 1
     Description: Mock interview details submission
